@@ -1,1 +1,0 @@
-C:/Users/USER/Desktop/VScode/AutoOrder_Kuriya/03_common.js

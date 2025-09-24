@@ -1,1 +1,0 @@
-C:/Users/USER/Desktop/VScode/AutoOrder_Kuriya/01_config_Shared.js
